@@ -1,6 +1,6 @@
 # Hello-Worlds
 
-An array of multi-lingual versions of Hello World
+An array of multilingual versions of Hello World
 
 Each file, other than this README file will output the phrase "Hello, World!"
 This has been made to demonstrate the fact that all languages can be used,
